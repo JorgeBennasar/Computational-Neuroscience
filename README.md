@@ -1,3 +1,3 @@
 # Computational Neuroscience Tools
 
-Including: 
+Including: TD Learning Algorithm, Spiking Network, STDP Rule, Ring Network, Perceptron, Integrate and Fire, and BCM Rule.
